@@ -1,2 +1,2 @@
-# Japanese-Vocabulary
-A simple vocabulary database and gui
+# Japanese
+For storing vocabulary.
