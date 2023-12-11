@@ -1,5 +1,5 @@
 {
-    "\u55ae\u5b57": "\u885d\u7a81(\u3057\u3087\u3046\u3068\u3064\uff09",
+    "\u55ae\u5b57": "\u885d\u7a81\uff08\u3057\u3087\u3046\u3068\u3064\uff09",
     "\u8a5e\u6027": "\u540d\u8a5e, \u3059\u308b\u5f62",
     "\u91cd\u97f3": "0",
     "\u610f\u601d": "\u885d\u7a81\uff0c\u78b0\u649e\uff0c\u885d\u649e",
@@ -10,8 +10,8 @@
     "start word": "\u3057",
     "no.": 135,
     "built time": "2023-09-01T23:22:02",
-    "edit time": "2023-09-01T23:22:02",
+    "edit time": "2023-12-02T17:57:32",
     "mistake count": 0,
-    "marked": false,
+    "marked": true,
     "author": "CrossingVoid"
 }
